@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(201, 218, 224);
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h1,pre,h3{
+    color: rgb(78, 106, 97);
+}
+h1:hover,h3:hover,:hover{
+    color: rgb(23, 71, 56);
+}
+table tr td{
+    border: 3px solid black;
+    padding: 20px;
+}
+.foto1{
+    border-radius: 50%;
+}
+pre{
+    font-size: 20px;
+}
+iframe{
+    border-radius: 20px;
+    width: 200px;
+    
+}
+table tr td:hover{
+    cursor: default;
+    color: rgb(250, 252, 251);
+    background-color: rgb(76, 87, 83);
+}
+div img{
+    border-radius: 20px;
+}
